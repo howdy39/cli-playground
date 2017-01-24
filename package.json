@@ -1,0 +1,24 @@
+{
+  "name": "cli-sandbox",
+  "version": "1.0.0",
+  "description": "## chalk ## chrome-webstore-upload ## junk ## meow ## ora ## pify ## recursive-readdir ## yazl",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/cli-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howdy39/cli-sandbox/issues"
+  },
+  "homepage": "https://github.com/howdy39/cli-sandbox#readme"
+}
