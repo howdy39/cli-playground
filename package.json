@@ -1,9 +1,10 @@
 {
   "name": "cli-sandbox",
   "version": "1.0.0",
-  "description": "## chalk ## chrome-webstore-upload ## junk ## meow ## ora ## pify ## recursive-readdir ## yazl",
+  "description": "cli-sandbox",
   "main": "index.js",
   "dependencies": {
+    "meow": "^3.7.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1"
   },
@@ -15,6 +16,8 @@
     "touch": "^1.0.0"
   },
   "scripts": {
+    "getnpm": "node getnpm",
+    "meow": "node npm/meow/meow",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
